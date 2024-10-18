@@ -1,4 +1,4 @@
-Vou listar e explicar módulos úteis para som, vídeo e imagens em Python, que podem ser aplicados ao seu projeto:
+Módulos úteis para som, vídeo e imagens em Python, que podem ser aplicados ao seu projeto:
 
 ### Módulos de Som:
 
