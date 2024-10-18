@@ -1,5 +1,3 @@
-Claro, vou explicar-lhe os módulos do WebSocket em português europeu.
-
 O WebSocket é um protocolo de comunicação bidirecional em tempo real que opera sobre uma única ligação TCP. Embora não tenha módulos específicos por si só, podemos falar sobre os principais componentes e conceitos associados ao WebSocket:
 
 1. Ligação (Connection):
@@ -101,6 +99,7 @@ Este exemplo demonstra os conceitos básicos de WebSockets:
 - Processamento assíncrono
 
 exemplo:
+```python
 # Servidor WebSocket
 import asyncio
 import websockets
