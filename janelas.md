@@ -146,5 +146,4 @@ dpg.destroy_context()
 Estes módulos são as principais opções para o desenvolvimento de interfaces gráficas em Python no Windows. 
 Cada um tem as suas particularidades e é adequado para diferentes tipos de projetos, 
 desde aplicações simples até interfaces mais complexas e interativas.
-```
 
