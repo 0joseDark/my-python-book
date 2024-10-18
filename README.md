@@ -1,5 +1,5 @@
 # my-python-book
- estudandos os modulos.
+ estudando os modulos.
 # [janelas](https://github.com/0joseDark/my-python-book/blob/main/janelas.md)
 # [parifericos](https://github.com/0joseDark/my-python-book/blob/main/perifericos.md)
 [test-commands](https://github.com/0joseDark/test-commands)
