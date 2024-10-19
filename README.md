@@ -1,5 +1,10 @@
 # my-python-book
  estudando os modulos.e exempplos usados.
+## syntax:
+## [Documentação do Projeto](docs/documentacao.md)
+
+## [Documentação do Projeto](docs/documentacao.md)
+
 # [janelas](https://github.com/0joseDark/my-python-book/blob/main/janelas.md)
 # [perifericos](https://github.com/0joseDark/my-python-book/blob/main/perifericos.md)
 ## [test-commands](https://github.com/0joseDark/test-commands)
