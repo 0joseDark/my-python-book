@@ -3,6 +3,7 @@
 ## syntax:
 ## [Hello World](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 ## [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
+## [files](https://github.com/0joseDark/my-python-book/blob/main/English/files.md)
 # [windows GUI](https://github.com/0joseDark/my-python-book/blob/main/English/windows-GUI.md)
 # [peripherals](https://github.com/0joseDark/my-python-book/blob/main/English/peripherals.md)
 ## [test-commands](https://github.com/0joseDark/test-commands)
