@@ -1,5 +1,5 @@
 # my-python-book
- estudando os modulos.e exempplos usados.
+ studying the modules and examples used.
 ## syntax:
 ## [olá-mundo](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 ## [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
