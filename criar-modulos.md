@@ -107,5 +107,3 @@ A criação de módulos em Python é uma prática fundamental para organizar o c
 - **Reutilização**: Funções ou classes podem ser reutilizadas em diferentes partes do código.
 - **Encapsulamento**: Mantém o código modularizado e mais fácil de testar.
 - **Facilidade de uso**: Permite uma fácil importação e integração entre diferentes partes do código.
-
-Se precisar de exemplos mais específicos para seu projeto atual, posso ajudar a criar módulos baseados nos requisitos que você já definiu!
