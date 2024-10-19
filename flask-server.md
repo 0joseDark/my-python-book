@@ -1,4 +1,4 @@
-Aqui está um exemplo de como criar um programa em Python no Windows 10 com uma interface gráfica (usando `tkinter`) para um servidor Flask que abre uma porta no firewall e permite comunicação com outro PC via uma página web. O programa inclui a criação de um log, renomeação do log, definição da porta, e controle do servidor (ligar/desligar). Vamos passo a passo:
+Aqui está um exemplo de como criar um programa em Python no Windows 10 com uma interface gráfica (usando `tkinter`) para um servidor Flask que abre uma porta no firewall e permite comunicação com outro PC via uma página web. O programa inclui a criação de um log, renomeação do log, definição da porta, e controle do servidor (ligar/desligar):
 
 ### Instalação de Dependências
 1. **Flask** para o servidor web:

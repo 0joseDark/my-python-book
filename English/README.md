@@ -1,4 +1,6 @@
 # my-python-book
+[português](docs/documentacao.md)
+
  studying the modules and examples used.
 ## syntax:
 ## [Hello World](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
