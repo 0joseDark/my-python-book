@@ -4,7 +4,7 @@
 ## [Hello World](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 ## [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
 # [windows GUI](https://github.com/0joseDark/my-python-book/blob/main/English/windows-GUI.md)
-# [perifericos](https://github.com/0joseDark/my-python-book/blob/main/perifericos.md)
+# [peripherals](https://github.com/0joseDark/my-python-book/blob/main/English/peripherals.md)
 ## [test-commands](https://github.com/0joseDark/test-commands)
 # [flak server](https://github.com/0joseDark/my-python-book/blob/main/flask-server.md)
 # [2D-3D](https://github.com/0joseDark/my-python-book/blob/main/2D-3D.md)
