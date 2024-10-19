@@ -1,9 +1,9 @@
 # my-python-book
  studying the modules and examples used.
 ## syntax:
-## [olá-mundo](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
+## [Hello World](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 ## [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
-# [janelas](https://github.com/0joseDark/my-python-book/blob/main/janelas.md)
+# [windows GUI](https://github.com/0joseDark/my-python-book/blob/main/English/windows-GUI.md)
 # [perifericos](https://github.com/0joseDark/my-python-book/blob/main/perifericos.md)
 ## [test-commands](https://github.com/0joseDark/test-commands)
 # [flak server](https://github.com/0joseDark/my-python-book/blob/main/flask-server.md)
