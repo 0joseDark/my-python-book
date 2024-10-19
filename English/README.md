@@ -6,7 +6,7 @@
 # [windows GUI](https://github.com/0joseDark/my-python-book/blob/main/English/windows-GUI.md)
 # [peripherals](https://github.com/0joseDark/my-python-book/blob/main/English/peripherals.md)
 ## [test-commands](https://github.com/0joseDark/test-commands)
-# [flak server](https://github.com/0joseDark/my-python-book/blob/main/flask-server.md)
+# [flask server](./0joseDark/my-python-book/blob/main/flask-server.md)
 # [2D-3D](https://github.com/0joseDark/my-python-book/blob/main/2D-3D.md)
 ## [pygame](https://github.com/0joseDark/test-with-pygame)
 ## [3D-simulator](https://github.com/0joseDark/3D-simulator)
