@@ -4,6 +4,7 @@ estudando os modulos.e exempplos usados.
 ## syntax:
 ## [olá-mundo](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 ## [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
+## [ficheiros](https://github.com/0joseDark/my-python-book/blob/main/ficheiros.md)
 # [janelas](https://github.com/0joseDark/my-python-book/blob/main/janelas.md)
 # [perifericos](https://github.com/0joseDark/my-python-book/blob/main/perifericos.md)
 ## [test-commands](https://github.com/0joseDark/test-commands)
