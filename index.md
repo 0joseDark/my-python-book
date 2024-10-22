@@ -1,7 +1,7 @@
 # Índice do Livro - Python Completo
 
 ## 1. Introdução ao Python
-- 1.1 O que é Python?
+- 1.1 [O que é Python?](https://github.com/0joseDark/my-python-book/blob/main/python.md)
 - 1.2 Instalação e Configuração
   - 1.2.1 Instalar Python no Windows, macOS e Linux
   - 1.2.2 Utilizar o `pip` para gerir pacotes
@@ -78,7 +78,7 @@
 - 11.3 [Desenvolvimento Web com Django](https://github.com/0joseDark/my-python-book/blob/main/Django.md)
 - 11.4 [Autenticação e Segurança](https://github.com/0joseDark/my-python-book/blob/main/seguranca.md)
 
-## 12. Interação com Bases de Dados
+## 12. [Interação com Bases de Dados](https://github.com/0joseDark/my-python-book/blob/main/base-dados.md)
 - 12.1 SQLite
 - 12.2 MySQL e PostgreSQL
 - 12.3 ORM com SQLAlchemy
