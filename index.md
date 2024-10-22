@@ -73,10 +73,10 @@
 - 10.4 Logging
 
 ## 11. Desenvolvimento Web com Python
-- 11.1 Introdução ao Flask
-- 11.2 Criar uma API RESTful
-- 11.3 Desenvolvimento Web com Django
-- 11.4 Autenticação e Segurança
+- 11.1 [Introdução ao Flask](https://github.com/0joseDark/my-python-book/blob/main/flask.md)
+- 11.2 [Criar uma API RESTful](https://github.com/0joseDark/my-python-book/blob/main/API-RESTful.md)
+- 11.3 [Desenvolvimento Web com Django](https://github.com/0joseDark/my-python-book/blob/main/Django.md)
+- 11.4 [Autenticação e Segurança](https://github.com/0joseDark/my-python-book/blob/main/seguranca.md)
 
 ## 12. Interação com Bases de Dados
 - 12.1 SQLite
