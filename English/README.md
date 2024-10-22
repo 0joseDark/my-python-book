@@ -1,4 +1,4 @@
-# my-python-book
+# my python book
 - [verção portuguesa](https://github.com/0joseDark/my-python-book/blob/main/README.md)
 - [python](https://github.com/0joseDark/my-python-book/blob/main/English/python.md)
 - [index](https://github.com/0joseDark/my-python-book/blob/main/English/index.md)
