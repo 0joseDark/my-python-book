@@ -1,4 +1,4 @@
-Aqui está uma explicação detalhada sobre **Estruturas de Controle de Fluxo** em Python, incluindo condicionais, ciclos, compreensão de listas e manuseamento de erros:
+Explicação detalhada sobre **Estruturas de Controle de Fluxo** em Python, incluindo condicionais, ciclos, compreensão de listas e manuseamento de erros:
 
 ---
 
