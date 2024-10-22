@@ -1,5 +1,5 @@
 # my python book
-- [English vettps://github.com/0joseDark/my-python-book/blob/main/English/README.md)
+- [English version](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
 - [index](https://github.com/0joseDark/my-python-book/blob/main/English/index.md)
 - [python](https://github.com/0joseDark/my-python-book/blob/main/python.md)
 * estudando os modulos.e exemplos usados.
