@@ -1,6 +1,6 @@
 # my-python-book
-[Nome do Link](caminho/para/o/file.md)
-# [English](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
+[python](https://github.com/0joseDark/my-python-book/blob/main/python.md)
+# [English version](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
 estudando os modulos.e exemplos usados.
 ## syntax:
 - [olá-mundo](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
