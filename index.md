@@ -54,7 +54,7 @@
   - 7.3.3 `datetime` para manipulação de datas e horas
   - 7.3.4 `random` para geração de números aleatórios
 
-## 8. Manipulação de Ficheiros
+## 8. [Manipulação de Ficheiros](https://github.com/0joseDark/my-python-book/blob/main/index-ficheiros.md)
 - 8.1 Ler e Escrever em Ficheiros
 - 8.2 Manipulação de Ficheiros CSV
 - 8.3 Ficheiros JSON
