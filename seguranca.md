@@ -127,5 +127,3 @@ A MFA adiciona uma camada extra de segurança exigindo que o usuário forneça d
 
 ### Conclusão
 A segurança de uma aplicação envolve uma combinação de boas práticas e ferramentas de proteção, como hashing de senhas, gerenciamento de sessões, uso de HTTPS, e proteção contra ataques como XSS, CSRF e SQL Injection. Essas medidas ajudam a proteger a aplicação e garantir que apenas usuários autorizados tenham acesso aos dados e funcionalidades.
-
-Se precisar de ajuda para aplicar essas práticas no seu projeto específico, posso te orientar com mais detalhes!
