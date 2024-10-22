@@ -18,7 +18,7 @@
   - 2.3.2 Operadores de Comparação
   - 2.3.3 Operadores Lógicos
 
-## 3. Estruturas de Controle de Fluxo
+## 3. [Estruturas de Controle de Fluxo](https://github.com/0joseDark/my-python-book/blob/main/Fluxo.md)
 - 3.1 Condicionais: `if`, `elif`, e `else`
 - 3.2 Ciclos: `for` e `while`
 - 3.3 Compreensão de Listas (List Comprehension)
