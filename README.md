@@ -1,12 +1,12 @@
 # my python book
-[index](https://github.com/0joseDark/my-python-book/blob/main/English/index.md)
-(python](https://github.com/0joseDark/my-python-book/blob/main/python.md)
-[English version](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
+- (index](https://github.com/0joseDark/my-python-book/blob/main/English/index.md)
+- (python](https://github.com/0joseDark/my-python-book/blob/main/python.md)
+- [English version](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
 estudando os modulos.e exemplos usados.
-## syntax:
+# syntax:
 - [olá-mundo](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 - [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
-## [ficheiros](https://github.com/0joseDark/my-python-book/blob/main/ficheiros.md)
+# [ficheiros](https://github.com/0joseDark/my-python-book/blob/main/ficheiros.md)
 # [janelas](https://github.com/0joseDark/my-python-book/blob/main/janelas.md)
 # [perifericos](https://github.com/0joseDark/my-python-book/blob/main/perifericos.md)
 - [test-commands](https://github.com/0joseDark/test-commands)
