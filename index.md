@@ -13,7 +13,7 @@
   - 2.2.1 Números Inteiros, Flutuantes, e Complexos
   - 2.2.2 Cadeias de Caracteres (Strings)
   - 2.2.3 Booleanos
-- 2.3 Operadores
+- 2.3 [Operadores](https://github.com/0joseDark/my-python-book/blob/main/Operadores.md)
   - 2.3.1 Operadores Aritméticos
   - 2.3.2 Operadores de Comparação
   - 2.3.3 Operadores Lógicos
