@@ -1,4 +1,4 @@
-Sim, existem vários módulos Python que permitem implementar o **Wake-on-LAN (WOL)**, que é uma técnica usada para ligar computadores remotamente através de pacotes de rede. Dois módulos populares para isso são:
+Existem vários módulos Python que permitem implementar o **Wake-on-LAN (WOL)**, que é uma técnica usada para ligar computadores remotamente através de pacotes de rede. Dois módulos populares para isso são:
 
 1. **`wakeonlan`**: Um módulo simples que envia um pacote mágico (Magic Packet) para um dispositivo na rede.
 
