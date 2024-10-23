@@ -120,4 +120,4 @@ Este script enviará solicitações para o servidor, permitindo que você escrev
 2. No **PC Cliente**, execute o **script do cliente**.
 3. Use o menu do cliente para se comunicar com o servidor, enviando texto para criar, modificar ou apagar.
 
-Esses scripts criarão uma comunicação básica entre dois PCs usando texto e teclas【5†source】.
+Esses scripts criarão uma comunicação básica entre dois PCs usando texto e teclas.
