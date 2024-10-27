@@ -20,7 +20,7 @@
 - [messenger](https://github.com/0joseDark/messenger)
 - [browser](https://github.com/0joseDark/browser)
 - [ftp_browser](https://github.com/0joseDark/ftp_browser)
-- [/FTP_server](https://github.com/0joseDark/FTP_server)
+- [FTP_server](https://github.com/0joseDark/FTP_server)
 - [Nome do Link](caminho/para/o/file.md)
 - [Nome do Link](caminho/para/o/file.md)
 - [Nome do Link](caminho/para/o/file.md)
