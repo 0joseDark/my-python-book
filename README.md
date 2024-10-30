@@ -34,5 +34,5 @@
 # Internet of Things IoT
 - raspberry pi
 - arduino
-- zx spetrom 48k and 128k
+- zx spectrum 48k and 128k
 
