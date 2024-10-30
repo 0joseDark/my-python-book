@@ -31,4 +31,8 @@
 # [criar modulos](https://github.com/0joseDark/my-python-book/blob/main/criar-modulos.md)
 # [som e video](https://github.com/0joseDark/my-python-book/blob/main/som-v%C3%ADdeo.md)
 # [WebSocket](https://github.com/0joseDark/my-python-book/blob/main/WebSocket.md)
+# Internet of Things IoT
+- raspberry pi
+- arduino
+- zx spetrom 48k and 128k
 
