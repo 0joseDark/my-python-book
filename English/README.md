@@ -19,7 +19,7 @@
 # [WebSocket](https://github.com/0joseDark/my-python-book/blob/main/English/WebSocket.md)
 # Internet of Things IoT
 - raspberry pi
-- arduino
+- arduinoMega
 - zx spectrum 48k and 128k
 
 
