@@ -17,4 +17,9 @@
 # [create modules](./0joseDark/my-python-book/blob/main/criar-modulos.md)
 # [sound and video](https://github.com/0joseDark/my-python-book/blob/main/English/sound-video.md)
 # [WebSocket](https://github.com/0joseDark/my-python-book/blob/main/English/WebSocket.md)
+# Internet of Things IoT
+- raspberry pi
+- arduino
+- zx spetrom 48k and 128k
+
 
