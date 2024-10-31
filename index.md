@@ -43,7 +43,7 @@
 - 6.3 [Herança](https://github.com/0joseDark/my-python-book/blob/main/Heran%C3%A7a.md)
 - 6.4 [Polimorfismo](https://github.com/0joseDark/my-python-book/blob/main/polimorfismo.md)
 - 6.5 [Encapsulamento](https://github.com/0joseDark/my-python-book/blob/main/Encapsulamento.md)
-- 6.6 Métodos Especiais    [Texto do link](URL do perfil)
+- 6.6 [Métodos Especiais](https://github.com/0joseDark/my-python-book/blob/main/m%C3%A9todos-especiais.md)
 
 ## 7. Módulos e Pacotes
 - 7.1 Importar Módulos
