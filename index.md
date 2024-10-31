@@ -32,7 +32,7 @@
 
 ## 5. Funções
 - 5.1 [Definir Funções](https://github.com/0joseDark/my-python-book/blob/main/fun%C3%A7%C3%B5es.md)
-- 5.2 Argumentos e Parâmetros
+- 5.2 [Argumentos e Parâmetros](https://github.com/0joseDark/my-python-book/blob/main/Par%C3%A2metros-Argumentos.md)
 - 5.3 [Funções Lambda](https://github.com/0joseDark/my-python-book/blob/main/Fun%C3%A7%C3%A3o-Lambda.md)
 - 5.4 [Funções Recursivas](https://github.com/0joseDark/my-python-book/blob/main/Fun%C3%A7%C3%B5es-Recursivas.md)
 - 5.5 [Decoradores](https://github.com/0joseDark/my-python-book/blob/main/decoradores.md)
