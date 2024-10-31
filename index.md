@@ -38,7 +38,7 @@
 - 5.5 [Decoradores](https://github.com/0joseDark/my-python-book/blob/main/decoradores.md)
 
 ## 6. [Programação Orientada a Objetos (POO)](https://github.com/0joseDark/my-python-book/blob/main/POO.md)
-- 6.1 Classes e Objetos
+- 6.1 [Classes e Objetos](https://github.com/0joseDark/my-python-book/blob/main/objetos-classe.md)
 - 6.2 Métodos e Atributos
 - 6.3 Herança
 - 6.4 Polimorfismo
