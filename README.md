@@ -39,10 +39,9 @@
 - - [remote control 2-1](https://github.com/0joseDark/remote-control-2-1)
 - - [remote control 2-2](https://github.com/0joseDark/remote-control-2-2)
 - - [remote control 2-3](https://github.com/0joseDark/remote-contrl-2-3)
-- - [Nome do Link](caminho/para/o/file.md)
 - - [remote control 3](https://github.com/0joseDark/remote-control-3)
 - - [remote control 4](https://github.com/0joseDark/remote-control-4)
-- - [Nome do Link](caminho/para/o/file.md)
+- - [remote control 18](https://github.com/0joseDark/remote-control-18)
 - [arduino-Mega](https://github.com/0joseDark/my-python-book/blob/main/mega-arduino.md)
 - zx spectrum 48k and 128k
 
