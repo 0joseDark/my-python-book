@@ -1,7 +1,7 @@
 - under construction
 # my python book
 - [English version](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
-- [index](https://github.com/0joseDark/my-python-book/blob/main/English/index.md)
+- [index](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 - [python](https://github.com/0joseDark/my-python-book/blob/main/python.md)
 * estudando os modulos.e exemplos usados.
 # syntax:
