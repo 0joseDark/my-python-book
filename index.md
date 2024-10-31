@@ -37,7 +37,7 @@
 - 5.4 [Funções Recursivas](https://github.com/0joseDark/my-python-book/blob/main/Fun%C3%A7%C3%B5es-Recursivas.md)
 - 5.5 [Decoradores](https://github.com/0joseDark/my-python-book/blob/main/decoradores.md)
 
-## 6. Programação Orientada a Objetos (POO)
+## 6. [Programação Orientada a Objetos (POO)](https://github.com/0joseDark/my-python-book/blob/main/POO.md)
 - 6.1 Classes e Objetos
 - 6.2 Métodos e Atributos
 - 6.3 Herança
