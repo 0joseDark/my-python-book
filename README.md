@@ -33,10 +33,10 @@
 # [WebSocket](https://github.com/0joseDark/my-python-book/blob/main/WebSocket.md)
 # Internet of Things IoT
 - raspberry pi
-- - [Remote Control](https://github.com/0joseDark/Remote-Control)
-- - [Remote Control 1)](https://github.com/0joseDark/Remote-Control-1)
+- - [remote control](https://github.com/0joseDark/Remote-Control)
+- - [remote control 1](https://github.com/0joseDark/Remote-Control-1)
 - - [remote control 2](https://github.com/0joseDark/remote-control-2)
-- - [Nome do Link](caminho/para/o/file.md)
+- - [remote control 3](https://github.com/0joseDark/remote-control-3)
 - - [Nome do Link](caminho/para/o/file.md)
 - - [Nome do Link](caminho/para/o/file.md)
 - - [Nome do Link](caminho/para/o/file.md)
