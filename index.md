@@ -39,11 +39,11 @@
 
 ## 6. [Programação Orientada a Objetos (POO)](https://github.com/0joseDark/my-python-book/blob/main/POO.md)
 - 6.1 [Classes e Objetos](https://github.com/0joseDark/my-python-book/blob/main/objetos-classe.md)
-- 6.2 Métodos e Atributos
-- 6.3 Herança
-- 6.4 Polimorfismo
-- 6.5 Encapsulamento
-- 6.6 Métodos Especiais
+- 6.2 [Métodos e Atributos](https://github.com/0joseDark/my-python-book/blob/main/M%C3%A9todos-Atributos.md)
+- 6.3 Herança   [Texto do link](URL do perfil)
+- 6.4 Polimorfismo    [Texto do link](URL do perfil)
+- 6.5 Encapsulamento    [Texto do link](URL do perfil)
+- 6.6 Métodos Especiais    [Texto do link](URL do perfil)
 
 ## 7. Módulos e Pacotes
 - 7.1 Importar Módulos
