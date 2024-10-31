@@ -34,7 +34,7 @@
 # Internet of Things IoT
 - raspberry pi
 - - [Remote Control](https://github.com/0joseDark/Remote-Control)
-- - [Nome do Link](caminho/para/o/file.md)
+- - [Remote Control 1)](https://github.com/0joseDark/Remote-Control-1)
 - - [Nome do Link](caminho/para/o/file.md)
 - - [Nome do Link](caminho/para/o/file.md)
 - - [Nome do Link](caminho/para/o/file.md)
