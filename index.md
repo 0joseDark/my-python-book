@@ -26,7 +26,7 @@
 
 ## 4. Estruturas de Dados
 - 4.1 Listas
-- 4.2 Tuplos
+- 4.2 [Tuplos](https://github.com/0joseDark/my-python-book/blob/main/tupla.md)
 - 4.3 [Conjuntos (Sets)](https://github.com/0joseDark/my-python-book/blob/main/conjuntos.md)
 - 4.4 [Dicionários](https://github.com/0joseDark/my-python-book/blob/main/dicion%C3%A1rio.md)
 
