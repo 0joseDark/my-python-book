@@ -35,7 +35,7 @@
 - 5.2 Argumentos e Parâmetros
 - 5.3 [Funções Lambda](https://github.com/0joseDark/my-python-book/blob/main/Fun%C3%A7%C3%A3o-Lambda.md)
 - 5.4 [Funções Recursivas](https://github.com/0joseDark/my-python-book/blob/main/Fun%C3%A7%C3%B5es-Recursivas.md)
-- 5.5 Decoradores
+- 5.5 [Decoradores](https://github.com/0joseDark/my-python-book/blob/main/decoradores.md)
 
 ## 6. Programação Orientada a Objetos (POO)
 - 6.1 Classes e Objetos
