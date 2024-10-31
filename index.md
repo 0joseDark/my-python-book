@@ -31,7 +31,7 @@
 - 4.4 [Dicionários](https://github.com/0joseDark/my-python-book/blob/main/dicion%C3%A1rio.md)
 
 ## 5. Funções
-- 5.1 Definir Funções
+- 5.1 [Definir Funções](https://github.com/0joseDark/my-python-book/blob/main/fun%C3%A7%C3%B5es.md)
 - 5.2 Argumentos e Parâmetros
 - 5.3 Funções Lambda
 - 5.4 Funções Recursivas
