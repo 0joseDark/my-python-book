@@ -41,7 +41,7 @@
 - 6.1 [Classes e Objetos](https://github.com/0joseDark/my-python-book/blob/main/objetos-classe.md)
 - 6.2 [Métodos e Atributos](https://github.com/0joseDark/my-python-book/blob/main/M%C3%A9todos-Atributos.md)
 - 6.3 [Herança](https://github.com/0joseDark/my-python-book/blob/main/Heran%C3%A7a.md)
-- 6.4 Polimorfismo    [Texto do link](URL do perfil)
+- 6.4 [Polimorfismo](https://github.com/0joseDark/my-python-book/blob/main/polimorfismo.md)
 - 6.5 Encapsulamento    [Texto do link](URL do perfil)
 - 6.6 Métodos Especiais    [Texto do link](URL do perfil)
 
