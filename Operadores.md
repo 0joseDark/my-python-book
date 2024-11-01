@@ -1,4 +1,4 @@
-- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/README.md)
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 - Em Python, os operadores são símbolos que realizam operações sobre os valores e variáveis. Eles são usados em expressões para realizar cálculos, comparações, atribuições, e muitas outras tarefas. Vamos ver os tipos principais de operadores em Python:
 
 ### 1. **Operadores Aritméticos**
