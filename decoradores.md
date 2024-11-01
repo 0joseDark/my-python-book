@@ -1,4 +1,5 @@
-Decoradores em Python são funções especiais que permitem adicionar funcionalidade extra a outras funções ou métodos sem modificar o código original da função decorada. São amplamente usados para estender ou modificar o comportamento de funções de maneira clara e concisa.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
+- Decoradores em Python são funções especiais que permitem adicionar funcionalidade extra a outras funções ou métodos sem modificar o código original da função decorada. São amplamente usados para estender ou modificar o comportamento de funções de maneira clara e concisa.
 
 ### Como Funcionam os Decoradores?
 Um decorador é uma função que recebe outra função como argumento, acrescenta alguma funcionalidade a ela e retorna uma nova função (ou a mesma função, com modificações). Usamos o símbolo `@` seguido do nome do decorador acima da função que queremos decorar.
