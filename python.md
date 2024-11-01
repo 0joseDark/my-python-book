@@ -1,3 +1,4 @@
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/README.md)
 1.1 O que é Python?
 
 Python é uma linguagem de programação de alto nível, interpretada, criada por Guido van Rossum e lançada em 1991. Ela destaca-se pela sua simplicidade e legibilidade, sendo uma excelente escolha tanto para iniciantes quanto para programadores experientes. Python é amplamente utilizado em diversas áreas, como desenvolvimento web, automação, análise de dados, inteligência artificial, machine learning, e muito mais. A sua sintaxe simples e limpa permite aos programadores concentrar-se na resolução de problemas, sem se perder em detalhes complexos da linguagem.
