@@ -1,4 +1,4 @@
-- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/README.md)
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 - Em Python, uma lista é uma estrutura de dados que armazena uma coleção de itens de maneira ordenada e mutável. É uma das estruturas mais usadas em Python, pois permite armazenar qualquer tipo de dado (números, strings, outras listas, etc.) e modificar seus elementos facilmente.
 
 ### Características das Listas:
