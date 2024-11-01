@@ -1,4 +1,5 @@
-Em Python, um dicionário é uma estrutura de dados que armazena pares de chave-valor. Ele é útil quando queremos associar informações e acessá-las por uma chave única, que funciona como uma "etiqueta" para o valor correspondente. As chaves devem ser únicas e imutáveis (como strings, números ou tuplas), enquanto os valores podem ser de qualquer tipo e repetidos.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
+- Em Python, um dicionário é uma estrutura de dados que armazena pares de chave-valor. Ele é útil quando queremos associar informações e acessá-las por uma chave única, que funciona como uma "etiqueta" para o valor correspondente. As chaves devem ser únicas e imutáveis (como strings, números ou tuplas), enquanto os valores podem ser de qualquer tipo e repetidos.
 
 Aqui está um exemplo de uso de dicionário, com explicações em cada passo:
 
