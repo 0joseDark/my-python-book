@@ -1,4 +1,5 @@
-Em Python, um conjunto (ou *set*) é uma coleção de elementos únicos e desordenados. Eles são úteis para armazenar elementos sem duplicatas e para realizar operações matemáticas como união, interseção e diferença entre conjuntos.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
+- Em Python, um conjunto (ou *set*) é uma coleção de elementos únicos e desordenados. Eles são úteis para armazenar elementos sem duplicatas e para realizar operações matemáticas como união, interseção e diferença entre conjuntos.
 
 ### Características dos conjuntos:
 1. **Elementos únicos**: Não permite valores duplicados.
