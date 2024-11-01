@@ -1,4 +1,5 @@
-Para desenvolver uma interação com bases de dados em Python, o caminho mais comum é utilizar bibliotecas que oferecem suporte a diferentes sistemas de gerenciamento de bases de dados, como MySQL, SQLite, PostgreSQL, ou outros. Vamos ver como fazer isso com **SQLite**, que é uma das bases de dados mais simples e já vem integrada no Python.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
+- Para desenvolver uma interação com bases de dados em Python, o caminho mais comum é utilizar bibliotecas que oferecem suporte a diferentes sistemas de gerenciamento de bases de dados, como MySQL, SQLite, PostgreSQL, ou outros. Vamos ver como fazer isso com **SQLite**, que é uma das bases de dados mais simples e já vem integrada no Python.
 
 Aqui está um exemplo de código em Python para interagir com uma base de dados SQLite:
 
