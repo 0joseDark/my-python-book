@@ -17,4 +17,18 @@
 # [create modules](./0joseDark/my-python-book/blob/main/criar-modulos.md)
 # [sound and video](https://github.com/0joseDark/my-python-book/blob/main/English/sound-video.md)
 # [WebSocket](https://github.com/0joseDark/my-python-book/blob/main/English/WebSocket.md)
+# Internet of Things IoT
+- raspberry pi
+- - [remote control](https://github.com/0joseDark/Remote-Control)
+- - [remote control 1](https://github.com/0joseDark/Remote-Control-1)
+- - [remote control 2](https://github.com/0joseDark/remote-control-2)
+- - [remote control 2-1](https://github.com/0joseDark/remote-control-2-1)
+- - [remote control 2-2](https://github.com/0joseDark/remote-control-2-2)
+- - [remote control 2-3](https://github.com/0joseDark/remote-contrl-2-3)
+- - [remote control 3](https://github.com/0joseDark/remote-control-3)
+- - [remote control 4](https://github.com/0joseDark/remote-control-4)
+- - [remote control 18](https://github.com/0joseDark/remote-control-18)
+- [arduino-Mega](https://github.com/0joseDark/my-python-book/blob/main/mega-arduino.md)
+- zx spectrum 48k and 128k
+
 
