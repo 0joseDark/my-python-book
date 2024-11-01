@@ -1,4 +1,5 @@
-Em Python, funções são blocos de código reutilizáveis que realizam uma tarefa específica. Elas permitem organizar o código em partes que podem ser chamadas várias vezes, tornando o programa mais modular e fácil de entender. Funções podem receber parâmetros (dados de entrada) e retornar valores como resultado.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
+- Em Python, funções são blocos de código reutilizáveis que realizam uma tarefa específica. Elas permitem organizar o código em partes que podem ser chamadas várias vezes, tornando o programa mais modular e fácil de entender. Funções podem receber parâmetros (dados de entrada) e retornar valores como resultado.
 
 ### Como Definir uma Função:
 1. Usamos a palavra-chave `def` seguida pelo nome da função.
