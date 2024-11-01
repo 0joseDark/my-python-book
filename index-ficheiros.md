@@ -1,3 +1,4 @@
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 # Manipulação de Ficheiros em Python
 
 A manipulação de ficheiros em Python envolve operações como criar, ler, escrever e fechar ficheiros. Vamos explorar as funções básicas usadas para manipulação de ficheiros e depois explicar com exemplos:
