@@ -1,4 +1,5 @@
-Funções recursivas são funções que **se chamam a si mesmas** para resolver um problema. A recursão é usada quando um problema pode ser dividido em subproblemas menores, de forma que cada um seja uma versão reduzida do original. É importante que uma função recursiva tenha uma **condição de parada** para evitar um loop infinito.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
+- Funções recursivas são funções que **se chamam a si mesmas** para resolver um problema. A recursão é usada quando um problema pode ser dividido em subproblemas menores, de forma que cada um seja uma versão reduzida do original. É importante que uma função recursiva tenha uma **condição de parada** para evitar um loop infinito.
 
 ### Características das Funções Recursivas:
 1. **Chamam a si mesmas**: Uma função recursiva usa o próprio nome dentro de sua definição.
