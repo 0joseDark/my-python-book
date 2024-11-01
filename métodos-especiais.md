@@ -1,3 +1,4 @@
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 ## Métodos Especiais em Python
 
 Métodos Especiais, também chamados de **métodos mágicos** ou **dunder methods** (de “double underscore”), são métodos que têm dois sublinhados no início e no fim de seus nomes, como `__init__`, `__str__`, e `__len__`. Esses métodos permitem definir comportamentos personalizados para objetos, sendo invocados automaticamente em certas operações e interações com a linguagem.
