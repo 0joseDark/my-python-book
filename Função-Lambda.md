@@ -1,4 +1,5 @@
-Funções Lambda em Python são funções anônimas, ou seja, funções que não têm um nome específico. Elas são definidas usando a palavra-chave `lambda`, e são normalmente usadas para criar funções curtas e simples que realizam uma operação rápida. Diferente de uma função normal, uma função lambda é composta de apenas uma expressão, e o valor dessa expressão é automaticamente retornado.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
+- Funções Lambda em Python são funções anônimas, ou seja, funções que não têm um nome específico. Elas são definidas usando a palavra-chave `lambda`, e são normalmente usadas para criar funções curtas e simples que realizam uma operação rápida. Diferente de uma função normal, uma função lambda é composta de apenas uma expressão, e o valor dessa expressão é automaticamente retornado.
 
 ### Características das Funções Lambda:
 1. **Sintaxe compacta**: São escritas em uma única linha.
