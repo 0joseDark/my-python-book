@@ -1,4 +1,5 @@
-Em Python, uma tupla é uma estrutura de dados semelhante a uma lista, mas que é **imutável**, o que significa que, uma vez criada, seus elementos não podem ser alterados, adicionados ou removidos. As tuplas são úteis para armazenar dados que não devem ser modificados ao longo do programa, como coordenadas, dados de configuração, e outras informações que precisam de proteção contra alterações acidentais.
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/README.md)
+- Em Python, uma tupla é uma estrutura de dados semelhante a uma lista, mas que é **imutável**, o que significa que, uma vez criada, seus elementos não podem ser alterados, adicionados ou removidos. As tuplas são úteis para armazenar dados que não devem ser modificados ao longo do programa, como coordenadas, dados de configuração, e outras informações que precisam de proteção contra alterações acidentais.
 
 ### Características das Tuplas:
 1. **Imutáveis**: Os elementos não podem ser modificados, adicionados ou removidos.
