@@ -1,3 +1,4 @@
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 ## Encapsulamento em Programação Orientada a Objetos (POO)
 
 **Encapsulamento** é um dos quatro pilares da Programação Orientada a Objetos (POO) e refere-se ao conceito de **esconder os detalhes internos de uma classe** e expor apenas o que é necessário. Isso permite que o estado interno de um objeto (ou seja, seus dados) seja protegido de modificações externas inesperadas, controlando como esses dados são acessados e modificados.
