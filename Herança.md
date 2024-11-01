@@ -1,3 +1,4 @@
+- [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 # Herança em POO (Python)
 
 Herança é um conceito que permite criar uma nova classe baseada em uma classe existente. A nova classe (subclasse) herda atributos e métodos da classe original (superclasse), permitindo reutilização de código e estabelecendo uma relação "é um" entre classes.
