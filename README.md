@@ -1,6 +1,5 @@
 - [discovered_Cli.github](https://github.com/0joseDark/discovered_Cli.github)
 - [markdown](https://github.com/0joseDark/my-python-book/blob/main/markdown.md)
-""
 - under construction
 # my python book
 - [English version](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
