@@ -46,7 +46,7 @@
 - 6.5 [Encapsulamento](https://github.com/0joseDark/my-python-book/blob/main/Encapsulamento.md)
 - 6.6 [Métodos Especiais](https://github.com/0joseDark/my-python-book/blob/main/m%C3%A9todos-especiais.md)
 
-## 7. Módulos e Pacotes
+## 7. [Módulos e Pacotes](https://github.com/0joseDark/my-python-book/blob/main/modulos-pacotes.md)
 - 7.1 Importar Módulos
 - 7.2 Criar e Utilizar Pacotes
 - 7.3 Bibliotecas Padrão
