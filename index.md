@@ -89,7 +89,7 @@
 ## 13. Processamento de Dados
 - 13.1 [Introdução ao NumPy](https://github.com/0joseDark/my-python-book/blob/main/NumPy.md)
 - 13.2 [Análise de Dados com Pandas](https://github.com/0joseDark/my-python-book/blob/main/Pandas.md)
-- 13.3 Visualização de Dados com Matplotlib e Seaborn
+- 13.3 [Visualização de Dados com Matplotlib e Seaborn](https://github.com/0joseDark/my-python-book/blob/main/visualizacao-dados.md)
 
 ## 14. Inteligência Artificial e Machine Learning
 - 14.1 Introdução ao Scikit-learn
