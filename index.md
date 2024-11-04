@@ -92,7 +92,7 @@
 - 13.3 [Visualização de Dados com Matplotlib e Seaborn](https://github.com/0joseDark/my-python-book/blob/main/visualizacao-dados.md)
 
 ## 14. Inteligência Artificial e Machine Learning
-- 14.1 Introdução ao Scikit-learn
+- 14.1 [Introdução ao Scikit-learn](https://github.com/0joseDark/my-python-book/blob/main/Scikit-learn.md)
 - 14.2 Redes Neurais com TensorFlow e Keras
 - 14.3 Processamento de Imagem com OpenCV
 
