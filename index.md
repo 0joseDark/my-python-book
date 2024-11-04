@@ -62,7 +62,7 @@
 - 8.3 Ficheiros JSON
 - 8.4 Ficheiros XML
 
-## 9. Python Avançado
+## 9. [Python Avançado](https://github.com/0joseDark/my-python-book/blob/main/topicos-avancados.md)
 - 9.1 Programação Funcional
 - 9.2 Geradores e Iteradores
 - 9.3 Manipulação de Exceções Avançada
