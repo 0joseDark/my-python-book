@@ -1,5 +1,3 @@
----
-
 # Python Avançado
 
 ## 9.1 Programação Funcional
