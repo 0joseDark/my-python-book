@@ -84,7 +84,7 @@
 - 12.1 [SQLite](https://github.com/0joseDark/my-python-book/blob/main/SQLite.md)
 - 12.2 [MySQL](https://github.com/0joseDark/my-python-book/blob/main/MySQL.md) e [PostgreSQL](https://github.com/0joseDark/my-python-book/blob/main/PostgreSQL.md)
 - 12.3 [ORM com SQLAlchemy](https://github.com/0joseDark/my-python-book/blob/main/SQLAlchemy.md)
-- 12.4 Migrações e Gestão de Esquemas
+- 12.4 [Migrações e Gestão de Esquemas](https://github.com/0joseDark/my-python-book/blob/main/Migracao.md)
 
 ## 13. Processamento de Dados
 - 13.1 [Introdução ao NumPy](https://github.com/0joseDark/my-python-book/blob/main/NumPy.md)
