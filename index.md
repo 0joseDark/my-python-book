@@ -97,7 +97,7 @@
 - 14.3 [Processamento de Imagem com OpenCV](https://github.com/0joseDark/my-python-book/blob/main/OpenCV.md)
 
 ## 15. Automatização de Tarefas
-- 15.1 Automatizar Processos com `os` e `subprocess`
+- 15.1 [Automatizar Processos com `os` e `subprocess`](https://github.com/0joseDark/my-python-book/blob/main/automatizar-tarefas.md)
 - 15.2 Utilização de `selenium` para automação de navegação na web
 - 15.3 Envio de Emails Automático
 
