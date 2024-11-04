@@ -81,7 +81,7 @@
 - 11.4 [Autenticação e Segurança](https://github.com/0joseDark/my-python-book/blob/main/seguranca.md)
 
 ## 12. [Interação com Bases de Dados](https://github.com/0joseDark/my-python-book/blob/main/base-dados.md)
-- 12.1 SQLite
+- 12.1 [SQLite](https://github.com/0joseDark/my-python-book/blob/main/SQLite.md)
 - 12.2 MySQL e PostgreSQL
 - 12.3 ORM com SQLAlchemy
 - 12.4 Migrações e Gestão de Esquemas
