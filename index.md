@@ -68,7 +68,7 @@
 - 9.3 Manipulação de Exceções Avançada
 - 9.4 Context Managers
 
-## 10. Testes e Depuração
+## 10. [Testes e Depuração](https://github.com/0joseDark/my-python-book/blob/main/testes-depuracao.md)
 - 10.1 Introdução aos Testes Unitários
 - 10.2 Testes com `unittest`
 - 10.3 Depuração com `pdb`
