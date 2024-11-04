@@ -3,9 +3,8 @@
 
 ## 1. Introdução ao Python
 - 1.1 [O que é Python?](https://github.com/0joseDark/my-python-book/blob/main/python.md)
-- 1.2 Instalação e Configuração
-  - 1.2.1 Instalar Python no Windows, macOS e Linux
-  - 1.2.2 Utilizar o `pip` para gerir pacotes
+- 1.2 [Instalação e Configuração no Windows, macOS e Linux](https://github.com/0joseDark/my-python-book/blob/main/instalacao-configuracao-Python.md)
+  - 1.2.3 Utilizar o `pip` para gerir pacotes
 - 1.3 Executar o Primeiro Programa em Python
 
 ## 2. Fundamentos da Linguagem
