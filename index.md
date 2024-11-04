@@ -93,7 +93,7 @@
 
 ## 14. Inteligência Artificial e Machine Learning
 - 14.1 [Introdução ao Scikit-learn](https://github.com/0joseDark/my-python-book/blob/main/Scikit-learn.md)
-- 14.2 Redes Neurais com TensorFlow e Keras
+- 14.2 [Redes Neurais com TensorFlow e Keras](https://github.com/0joseDark/my-python-book/blob/main/TensorFlow-Keras.md)
 - 14.3 Processamento de Imagem com OpenCV
 
 ## 15. Automatização de Tarefas
