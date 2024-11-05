@@ -12,7 +12,7 @@
 - 2.2 [Variáveis e Tipos de Dados](https://github.com/0joseDark/my-python-book/blob/main/tipos-dados.md)
   - 2.2.1 [Números Inteiros, Flutuantes, e Complexos](https://github.com/0joseDark/my-python-book/blob/main/tipos-dados0.md)
   - 2.2.2 [Cadeias de Caracteres (Strings)](https://github.com/0joseDark/my-python-book/blob/main/Strings.md)
-  - 2.2.3 Booleanos
+  - 2.2.3 [Booleanos](https://github.com/0joseDark/my-python-book/blob/main/Booleanos.md)
 - 2.3 [Operadores](https://github.com/0joseDark/my-python-book/blob/main/Operadores.md)
   - 2.3.1 Operadores Aritméticos
   - 2.3.2 Operadores de Comparação
