@@ -9,7 +9,7 @@
 
 ## 2. Fundamentos da Linguagem
 - 2.1 [Sintaxe Básica](https://github.com/0joseDark/my-python-book/blob/main/sintaxe-basica.md)
-- 2.2 Variáveis e Tipos de Dados
+- 2.2 [Variáveis e Tipos de Dados](https://github.com/0joseDark/my-python-book/blob/main/tipos-dados.md)
   - 2.2.1 Números Inteiros, Flutuantes, e Complexos
   - 2.2.2 Cadeias de Caracteres (Strings)
   - 2.2.3 Booleanos
