@@ -8,7 +8,7 @@
 - 1.3 [Executar o Primeiro Programa em Python](https://github.com/0joseDark/my-python-book/blob/main/primeiro-programa.md)
 
 ## 2. Fundamentos da Linguagem
-- 2.1 Sintaxe Básica
+- 2.1 [Sintaxe Básica](https://github.com/0joseDark/my-python-book/blob/main/sintaxe-basica.md)
 - 2.2 Variáveis e Tipos de Dados
   - 2.2.1 Números Inteiros, Flutuantes, e Complexos
   - 2.2.2 Cadeias de Caracteres (Strings)
