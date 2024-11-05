@@ -5,7 +5,7 @@
 - 1.1 [O que é Python?](https://github.com/0joseDark/my-python-book/blob/main/python.md)
 - 1.2 [Instalação e Configuração no Windows, macOS e Linux](https://github.com/0joseDark/my-python-book/blob/main/instalacao-configuracao-Python.md)
   - 1.2.1 [Utilizar o `pip` para gerir pacotes](https://github.com/0joseDark/my-python-book/blob/main/pip.md)
-- 1.3 Executar o Primeiro Programa em Python
+- 1.3 [Executar o Primeiro Programa em Python](https://github.com/0joseDark/my-python-book/blob/main/primeiro-programa.md)
 
 ## 2. Fundamentos da Linguagem
 - 2.1 Sintaxe Básica
