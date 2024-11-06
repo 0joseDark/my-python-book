@@ -2,7 +2,7 @@
 
 ## 1. Introduction to Python
 - 1.1 [ What is Python?](https://github.com/0joseDark/my-python-book/blob/main/English/en-python.md)
-- 1.2 [Installation and Setup](https://github.com/0joseDark/my-python-book/blob/main/English/Installing.md)
+- 1.2 [Installation and Setup](https://github.com/0joseDark/my-python-book/blob/main/English/pip.md)
   - 1.2.1 Installing Python on Windows, macOS, and Linux [O](./0joseDark/my-python-book/blob/main/python.md)
   - 1.2.2 Using `pip` to Manage Packages [O](./0joseDark/my-python-book/blob/main/python.md)
 - 1.3 Running Your First Python Program [O](./0joseDark/my-python-book/blob/main/python.md)
