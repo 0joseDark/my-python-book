@@ -58,7 +58,8 @@
 ## 8. [Manipulação de Ficheiros](https://github.com/0joseDark/my-python-book/blob/main/index-ficheiros.md)
 - 8.1 Ler e Escrever em Ficheiros
 - 8.2 [Manipulação de Ficheiros CSV](https://github.com/0joseDark/my-python-book/blob/main/ficheiros-CSV.md)
-- 8.3 Ficheiros JSON
+- 6.5 [Encapsulamento](https://github.com/0joseDark/my-python-book/blob/main/Encapsulamento.md)
+- 8.3 [Ficheiros JSON](https://github.com/0joseDark/my-python-book/blob/main/ficheiros-JSON.md)
 - 8.4 Ficheiros XML
 
 ## 9. [Python Avançado](https://github.com/0joseDark/my-python-book/blob/main/topicos-avancados.md)
