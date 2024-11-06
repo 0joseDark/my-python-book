@@ -1,7 +1,7 @@
 # Table of Contents - Complete Python Book
 
 ## 1. Introduction to Python
-- 1.1 What is Python? [O](./0joseDark/my-python-book/blob/main/python.md)
+- 1.1 [ What is Python?](https://github.com/0joseDark/my-python-book/blob/main/English/en-python.md)
 - 1.2 Installation and Setup [O](./0joseDark/my-python-book/blob/main/python.md)
   - 1.2.1 Installing Python on Windows, macOS, and Linux [O](./0joseDark/my-python-book/blob/main/python.md)
   - 1.2.2 Using `pip` to Manage Packages [O](./0joseDark/my-python-book/blob/main/python.md)
