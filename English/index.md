@@ -1,70 +1,70 @@
 # Table of Contents - Complete Python Book
 
 ## 1. Introduction to Python
-- 1.1 What is Python?
-- 1.2 Installation and Setup
-  - 1.2.1 Installing Python on Windows, macOS, and Linux
-  - 1.2.2 Using `pip` to Manage Packages
-- 1.3 Running Your First Python Program
+- 1.1 What is Python? [O](./0joseDark/my-python-book/blob/main/python.md)
+- 1.2 Installation and Setup [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 1.2.1 Installing Python on Windows, macOS, and Linux [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 1.2.2 Using `pip` to Manage Packages [O](./0joseDark/my-python-book/blob/main/python.md)
+- 1.3 Running Your First Python Program [O](./0joseDark/my-python-book/blob/main/python.md)
 
 ## 2. Language Fundamentals
-- 2.1 Basic Syntax
-- 2.2 Variables and Data Types
-  - 2.2.1 Integers, Floats, and Complex Numbers
-  - 2.2.2 Strings
-  - 2.2.3 Booleans
-- 2.3 Operators
-  - 2.3.1 Arithmetic Operators
-  - 2.3.2 Comparison Operators
-  - 2.3.3 Logical Operators
+- 2.1 Basic Syntax [O](./0joseDark/my-python-book/blob/main/python.md)
+- 2.2 Variables and Data Types [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 2.2.1 Integers, Floats, and Complex Numbers [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 2.2.2 Strings [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 2.2.3 Booleans [O](./0joseDark/my-python-book/blob/main/python.md)
+- 2.3 Operators [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 2.3.1 Arithmetic Operators [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 2.3.2 Comparison Operators [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 2.3.3 Logical Operators [O](./0joseDark/my-python-book/blob/main/python.md)
 
-## 3. Control Flow
+## 3. Control Flow [O](./0joseDark/my-python-book/blob/main/python.md)
 - 3.1 Conditionals: `if`, `elif`, and `else`
 - 3.2 Loops: `for` and `while`
 - 3.3 List Comprehensions
 - 3.4 Exceptions and Error Handling
 
-## 4. Data Structures
-- 4.1 Lists
-- 4.2 Tuples
-- 4.3 Sets
-- 4.4 Dictionaries
+## 4. Data Structures [O](./0joseDark/my-python-book/blob/main/python.md)
+- 4.1 Lists [O](./0joseDark/my-python-book/blob/main/python.md)
+- 4.2 Tuples [O](./0joseDark/my-py[O](./0joseDark/my-python-book/blob/main/python.md)thon-book/blob/main/python.md)
+- 4.3 Sets [O](./0joseDark/my-python-book/blob/main/python.md)
+- 4.4 Dictionaries [O](./0joseDark/my-python-book/blob/main/python.md)
 
-## 5. Functions
-- 5.1 Defining Functions
-- 5.2 Arguments and Parameters
-- 5.3 Lambda Functions
-- 5.4 Recursive Functions
-- 5.5 Decorators
+## 5. Functions [O](./0joseDark/my-python-book/blob/main/python.md)
+- 5.1 Defining Functions [O](./0joseDark/my-python-book/blob/main/python.md)
+- 5.2 Arguments and Parameters [O](./0joseDark/my-python-book/blob/main/python.md)
+- 5.3 Lambda Functions [O](./0joseDark/my-python-book/blob/main/python.md)
+- 5.4 Recursive Functions [O](./0joseDark/my-python-book/blob/main/python.md)
+- 5.5 Decorators [O](./0joseDark/my-python-book/blob/main/python.md)
 
-## 6. Object-Oriented Programming (OOP)
-- 6.1 Classes and Objects
-- 6.2 Methods and Attributes
-- 6.3 Inheritance
-- 6.4 Polymorphism
-- 6.5 Encapsulation
-- 6.6 Special Methods
+## 6. Object-Oriented Programming (OOP) [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.1 Classes and Objects [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.2 Methods and Attributes [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.3 Inheritance [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.4 Polymorphism [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.5 Encapsulation [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.6 Special Methods [O](./0joseDark/my-python-book/blob/main/python.md)
 
-## 7. Modules and Packages
-- 7.1 Importing Modules
-- 7.2 Creating and Using Packages
-- 7.3 Standard Libraries
-  - 7.3.1 `os` for File System Operations
-  - 7.3.2 `math` for Mathematical Operations
-  - 7.3.3 `datetime` for Date and Time Handling
-  - 7.3.4 `random` for Random Number Generation
+## 7. Modules and Packages [O](./0joseDark/my-python-book/blob/main/python.md)
+- 7.1 Importing Modules [O](./0joseDark/my-python-book/blob/main/python.md)
+- 7.2 Creating and Using Packages [O](./0joseDark/my-python-book/blob/main/python.md)
+- 7.3 Standard Libraries [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 7.3.1 `os` for File System Operations [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 7.3.2 `math` for Mathematical Operations [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 7.3.3 `datetime` for Date and Time Handling [O](./0joseDark/my-python-book/blob/main/python.md)
+  - 7.3.4 `random` for Random Number Generation [O](./0joseDark/my-python-book/blob/main/python.md)
 
 ## 8. [File Handling](https://github.com/0joseDark/my-python-book/blob/main/index-ficheiros.md)
-- 8.1 Reading and Writing Files
-- 8.2 Handling CSV Files
-- 8.3 JSON Files
-- 8.4 XML Files
+- 8.1 Reading and Writing Files [O](./0joseDark/my-python-book/blob/main/python.md)
+- 8.2 Handling CSV Files [O](./0joseDark/my-python-book/blob/main/python.md)
+- 8.3 JSON Files [O](./0joseDark/my-python-book/blob/main/python.md)
+- 8.4 XML Files [O](./0joseDark/my-python-book/blob/main/python.md)
 
-## 9. Advanced Python
-- 9.1 Functional Programming
-- 9.2 Generators and Iterators
-- 9.3 Advanced Exception Handling
-- 9.4 Context Managers
+## 9. Advanced Python [O](./0joseDark/my-python-book/blob/main/python.md)
+- 9.1 Functional Programming [O](./0joseDark/my-python-book/blob/main/python.md)
+- 9.2 Generators and Iterators [O](./0joseDark/my-python-book/blob/main/python.md)
+- 9.3 Advanced Exception Handling [O](./0joseDark/my-python-book/blob/main/python.md)
+- 9.4 Context Managers [O](./0joseDark/my-python-book/blob/main/python.md)
 
 ## 10. Testing and Debugging
 - 10.1 Introduction to Unit Testing
