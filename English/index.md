@@ -8,7 +8,7 @@
 - 1.3 Running Your First Python Program [O](./0joseDark/my-python-book/blob/main/python.md)
 
 ## 2. Language Fundamentals
-- 2.1 Basic Syntax [O](./0joseDark/my-python-book/blob/main/python.md)
+- 2.1 [Basic Syntax](https://github.com/0joseDark/my-python-book/blob/main/basic-syntax.md)
 - 2.2 Variables and Data Types [O](./0joseDark/my-python-book/blob/main/python.md)
   - 2.2.1 Integers, Floats, and Complex Numbers [O](./0joseDark/my-python-book/blob/main/python.md)
   - 2.2.2 Strings [O](./0joseDark/my-python-book/blob/main/python.md)
