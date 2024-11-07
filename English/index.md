@@ -61,7 +61,7 @@
 - 8.3 [JSON Files](https://github.com/0joseDark/my-python-book/blob/main/English/JSON-files.md)
 - 8.4 [XML Files](https://github.com/0joseDark/my-python-book/blob/main/English/XML-Files.md)
 
-## 9. Advanced Python [O](./0joseDark/my-python-book/blob/main/python.md)
+## 9. [Advanced Python](https://github.com/0joseDark/my-python-book/blob/main/Advanced-Python.md)
 - 9.1 Functional Programming [O](./0joseDark/my-python-book/blob/main/python.md)
 - 9.2 Generators and Iterators [O](./0joseDark/my-python-book/blob/main/python.md)
 - 9.3 Advanced Exception Handling [O](./0joseDark/my-python-book/blob/main/python.md)
