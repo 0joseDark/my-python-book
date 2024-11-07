@@ -57,7 +57,7 @@
 
 ## 8. [File Handling](https://github.com/0joseDark/my-python-book/blob/main/English/File-handling.md)
 - 8.1 Reading and Writing Files [O](./0joseDark/my-python-book/blob/main/python.md)
-- 8.2 Handling CSV Files [O](./0joseDark/my-python-book/blob/main/python.md)
+- 8.2 [Handling CSV Files](https://github.com/0joseDark/my-python-book/blob/main/English/CSV-files.md)
 - 8.3 JSON Files [O](./0joseDark/my-python-book/blob/main/python.md)
 - 8.4 XML Files [O](./0joseDark/my-python-book/blob/main/python.md)
 
