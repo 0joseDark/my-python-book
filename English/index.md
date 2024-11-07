@@ -13,7 +13,7 @@
   - 2.2.1 Integers, Floats, and Complex Numbers [O](./0joseDark/my-python-book/blob/main/python.md)
   - 2.2.2 Strings [O](./0joseDark/my-python-book/blob/main/python.md)
   - 2.2.3 Booleans [O](./0joseDark/my-python-book/blob/main/python.md)
-- 2.3 Operators [O](./0joseDark/my-python-book/blob/main/python.md)
+- 2.3 [Operators](https://github.com/0joseDark/my-python-book/blob/main/English/Operators.md)
   - 2.3.1 Arithmetic Operators [O](./0joseDark/my-python-book/blob/main/python.md)
   - 2.3.2 Comparison Operators [O](./0joseDark/my-python-book/blob/main/python.md)
   - 2.3.3 Logical Operators [O](./0joseDark/my-python-book/blob/main/python.md)
