@@ -49,7 +49,7 @@
 - 7.0 [C/C++ Extensions](https://github.com/0joseDark/my-python-book/blob/main/English/Extensions-c.md)
 - 7.1 Importing Modules [O](./0joseDark/my-python-book/blob/main/python.md)
 - 7.2 Creating and Using Packages [O](./0joseDark/my-python-book/blob/main/python.md)
-- 7.3 Standard Libraries [O](./0joseDark/my-python-book/blob/main/python.md)
+- 7.3 [Standard Libraries](https://github.com/0joseDark/my-python-book/blob/main/English/standard-library.md)
   - 7.3.1 `os` for File System Operations [O](./0joseDark/my-python-book/blob/main/python.md)
   - 7.3.2 `math` for Mathematical Operations [O](./0joseDark/my-python-book/blob/main/python.md)
   - 7.3.3 `datetime` for Date and Time Handling [O](./0joseDark/my-python-book/blob/main/python.md)
