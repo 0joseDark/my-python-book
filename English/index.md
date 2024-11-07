@@ -43,7 +43,7 @@
 - 6.3 Inheritance [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.4 Polymorphism [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.5 Encapsulation [O](./0joseDark/my-python-book/blob/main/python.md)
-- 6.6 Special Methods [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.6 [Special Methods](https://github.com/0joseDark/my-python-book/blob/main/English/Special-methods.md)
 
 ## 7. Modules and Packages [O](./0joseDark/my-python-book/blob/main/python.md)
 - 7.1 Importing Modules [O](./0joseDark/my-python-book/blob/main/python.md)
