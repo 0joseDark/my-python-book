@@ -37,7 +37,7 @@
 - 5.4 [Recursive Functions](https://github.com/0joseDark/my-python-book/blob/main/English/Recursive-functions.md)
 - 5.5 [Decorators](https://github.com/0joseDark/my-python-book/blob/main/English/decorators.md)
 
-## 6. Object-Oriented Programming (OOP) [O](./0joseDark/my-python-book/blob/main/python.md)
+## 6. [Object-Oriented Programming (OOP)](https://github.com/0joseDark/my-python-book/blob/main/English/OOP.md)
 - 6.1 Classes and Objects [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.2 Methods and Attributes [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.3 Inheritance [O](./0joseDark/my-python-book/blob/main/python.md)
