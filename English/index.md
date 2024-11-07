@@ -67,7 +67,7 @@
 - 9.3 Advanced Exception Handling [O](./0joseDark/my-python-book/blob/main/python.md)
 - 9.4 Context Managers [O](./0joseDark/my-python-book/blob/main/python.md)
 
-## 10. Testing and Debugging
+## 10. [Testing and Debugging](https://github.com/0joseDark/my-python-book/blob/main/English/Unit-Testing.md)
 - 10.1 Introduction to Unit Testing
 - 10.2 Testing with `unittest`
 - 10.3 Debugging with `pdb`
