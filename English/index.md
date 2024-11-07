@@ -35,7 +35,7 @@
 - 5.2 Arguments and Parameters [O](./0joseDark/my-python-book/blob/main/python.md)
 - 5.3 Lambda Functions [O](./0joseDark/my-python-book/blob/main/python.md)
 - 5.4 [Recursive Functions](https://github.com/0joseDark/my-python-book/blob/main/English/Recursive-functions.md)
-- 5.5 Decorators [O](./0joseDark/my-python-book/blob/main/python.md)
+- 5.5 [Decorators](https://github.com/0joseDark/my-python-book/blob/main/English/decorators.md)
 
 ## 6. Object-Oriented Programming (OOP) [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.1 Classes and Objects [O](./0joseDark/my-python-book/blob/main/python.md)
