@@ -24,7 +24,7 @@
 - 3.3 List Comprehensions
 - 3.4 Exceptions and Error Handling
 
-- 4.3 ## [Data Structures](https://github.com/0joseDark/my-python-book/blob/main/English/Data-structures.md)
+## 4 [Data Structures](https://github.com/0joseDark/my-python-book/blob/main/English/Data-structures.md)
 - 4.1 Lists [O](./0joseDark/my-python-book/blob/main/python.md)
 - 4.2 Tuples [O](./0joseDark/my-py[O](./0joseDark/my-python-book/blob/main/python.md)thon-book/blob/main/python.md)
 - 4.3 Sets [O](./0joseDark/my-python-book/blob/main/python.md)
