@@ -45,7 +45,7 @@
 - 6.5 Encapsulation [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.6 [Special Methods](https://github.com/0joseDark/my-python-book/blob/main/English/Special-methods.md)
 
-## 7. Modules and Packages [O](./0joseDark/my-python-book/blob/main/python.md
+## 7. Modules and Packages [O](./0joseDark/my-python-book/blob/main/python.md)
 - 7.0 [C/C++ Extensions](https://github.com/0joseDark/my-python-book/blob/main/English/Extensions-c.md)
 - 7.1 Importing Modules [O](./0joseDark/my-python-book/blob/main/python.md)
 - 7.2 Creating and Using Packages [O](./0joseDark/my-python-book/blob/main/python.md)
