@@ -39,7 +39,7 @@
 
 ## 6. [Object-Oriented Programming (OOP)](https://github.com/0joseDark/my-python-book/blob/main/English/OOP.md)
 - 6.1 [Classes and Objects](https://github.com/0joseDark/my-python-book/blob/main/English/Classes-objects.md)
-- 6.2 Methods and Attributes [O](./0joseDark/my-python-book/blob/main/python.md)
+- 6.2 [Methods and Attributes](https://github.com/0joseDark/my-python-book/blob/main/English/Methods-Attributes.md)
 - 6.3 Inheritance [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.4 Polymorphism [O](./0joseDark/my-python-book/blob/main/python.md)
 - 6.5 Encapsulation [O](./0joseDark/my-python-book/blob/main/python.md)
