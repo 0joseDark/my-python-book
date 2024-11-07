@@ -30,7 +30,7 @@
 - 4.3 Sets [O](./0joseDark/my-python-book/blob/main/python.md)
 - 4.4 Dictionaries [O](./0joseDark/my-python-book/blob/main/python.md)
 
-## 5. Functions [O](./0joseDark/my-python-book/blob/main/python.md)
+## 5. [Functions](https://github.com/0joseDark/my-python-book/blob/main/English/functions.md)
 - 5.1 Defining Functions [O](./0joseDark/my-python-book/blob/main/python.md)
 - 5.2 Arguments and Parameters [O](./0joseDark/my-python-book/blob/main/python.md)
 - 5.3 Lambda Functions [O](./0joseDark/my-python-book/blob/main/python.md)
