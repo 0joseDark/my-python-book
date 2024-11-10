@@ -6,6 +6,7 @@
 - [index](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 - [python](https://github.com/0joseDark/my-python-book/blob/main/python.md)
 * estudando os modulos.e exemplos usados.
+- [modulos](https://github.com/0joseDark/my-python-book/blob/main/modulos.md)
 # syntax:
 - [olá mundo](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 - [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
