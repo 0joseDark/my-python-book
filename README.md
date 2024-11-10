@@ -33,6 +33,7 @@
 - [3D-simulator](https://github.com/0joseDark/3D-simulator)
 # [criar modulos](https://github.com/0joseDark/my-python-book/blob/main/criar-modulos.md)
 # [som e video](https://github.com/0joseDark/my-python-book/blob/main/som-v%C3%ADdeo.md)
+- [modulos de som](https://github.com/0joseDark/my-python-book/blob/main/modulos-som.md)
 # [WebSocket](https://github.com/0joseDark/my-python-book/blob/main/WebSocket.md)
 # Internet of Things IoT
 - raspberry pi
