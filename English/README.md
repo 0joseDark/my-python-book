@@ -1,3 +1,4 @@
+![today](https://github.com/0joseDark/my-python-book/blob/main/imagens/fabrica-futurista-2.jpg)
 # my python book
 - [verção portuguesa](https://github.com/0joseDark/my-python-book/blob/main/README.md)
 - [python](https://github.com/0joseDark/my-python-book/blob/main/English/python.md)
