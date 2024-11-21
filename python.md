@@ -1,3 +1,4 @@
+![douctor](https://github.com/0joseDark/0joseDark/blob/main/assets/douctor-inteiro-trabalhando.jpg)
 - [voltar atrás](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 - 1.1 O que é Python?
 
