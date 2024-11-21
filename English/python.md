@@ -1,3 +1,4 @@
+![douctor](https://github.com/0joseDark/0joseDark/blob/main/assets/douctor-inteiro-trabalhando.jpg)
 1.1 What is Python?
 
 Python is a high-level, interpreted programming language created by Guido van Rossum and released in 1991. It stands out for its simplicity and readability, making it an excellent choice for both beginners and experienced programmers. Python is widely used in many areas, such as web development, automation, data analysis, artificial intelligence, machine learning, and much more. Its simple and clean syntax allows developers to focus on solving problems without getting lost in complex language details.
