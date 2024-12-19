@@ -22,7 +22,7 @@
 - [do tasks](https://github.com/0joseDark/do-tasks)
 # [flak server](https://github.com/0joseDark/my-python-book/blob/main/flask-server.md)
 - [tools](https://github.com/0joseDark/firewall-tools)
-- [Wake-on-LAN good](https://github.com/0joseDark/Wake-on-LAN/blob/main/README.md)
+- [Wake-on-LAN](https://github.com/0joseDark/Wake-on-LAN/blob/main/README.md)
 - - [script](https://github.com/0joseDark/wake-on-lan-1)
 - [script good](https://github.com/0joseDark/wake-on-lan-0)
 - - - [modulos wake-on-lan](https://github.com/0joseDark/wake-on-lan-0/blob/main/modulo-wake-on-lan.md)
