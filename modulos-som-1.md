@@ -1,4 +1,4 @@
-Aqui está uma lista de **módulos de som para Python**, explicados em português europeu, incluindo instruções para a instalação no Windows 10 e no Ubuntu Linux.  
+Aqui está uma lista de **módulos de som para Python**, incluindo instruções para a instalação no Windows 10 e no Ubuntu Linux.  
 
 ---
 
