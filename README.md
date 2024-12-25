@@ -13,8 +13,15 @@
 - [olá mundo](https://github.com/0joseDark/my-python-book/blob/main/scripts/ol%C3%A1_mundo.py)
 - [syntax](https://github.com/0joseDark/my-python-book/blob/main/scripts/syntax.py)
 # [ficheiros](https://github.com/0joseDark/my-python-book/blob/main/ficheiros.md)
+- [classify images](https://github.com/0joseDark/classify-images)
+- [classify images 2](https://github.com/0joseDark/classify-images-2)
+- [text-editor](https://github.com/0joseDark/text-editor)
+- [editor binario](https://github.com/0joseDark/editor-binario)
+- [teclado virtual](https://github.com/0joseDark/teclado-pt-PT)
 - [Nome do Link](caminho/para/o/file.md)
-- [Nome do Link](caminho/para/o/file.md)
+
+
+
 
 # [janelas](https://github.com/0joseDark/my-python-book/blob/main/janelas.md)
 # [perifericos](https://github.com/0joseDark/my-python-book/blob/main/perifericos.md)
