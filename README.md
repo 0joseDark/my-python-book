@@ -6,6 +6,8 @@
 - [English version](https://github.com/0joseDark/my-python-book/blob/main/English/README.md)
 - [index](https://github.com/0joseDark/my-python-book/blob/main/index.md)
 - [python](https://github.com/0joseDark/my-python-book/blob/main/python.md)
+- - [ficheros movidos para "doc-pt"](https://github.com/0joseDark/my-python-book/tree/main/doc-pt)
+
 * estudando os modulos.e exemplos usados.
 - [modulos](https://github.com/0joseDark/my-python-book/blob/main/modulos.md)
 - [modulos cientificos](https://github.com/0joseDark/my-python-book/blob/main/modulos-cientificos.md)
