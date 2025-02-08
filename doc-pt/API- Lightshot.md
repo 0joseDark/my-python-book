@@ -1,3 +1,3 @@
 - uso da API do Lightshot
-- Aqui está o código inicial para o seu visualizador de imagens com integração à API do [Lightshot](https://prnt.sc/). Ele inclui uma interface gráfica com botões para capturar a tela, editar, criar, abrir e gravar imagens, além de opções para escolher o caminho e renomear arquivos automaticamente.
+- API do [Lightshot](https://prnt.sc/). Ele inclui uma interface gráfica com botões para capturar a tela, editar, criar, abrir e gravar imagens, além de opções para escolher o caminho e renomear arquivos automaticamente.
 O código acima implementa um visualizador de imagens com funcionalidades básicas. Ele permite capturar a tela (simulação), abrir imagens, gravar, renomear automaticamente e sair. O uso da API do Lightshot está representado como um exemplo, pois o serviço não possui uma API pública.
